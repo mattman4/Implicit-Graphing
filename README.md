@@ -3,4 +3,4 @@ Ever wanted a terrible web graphing calculator that supports implicit calculatio
 
 - Uses [math.js library](https://github.com/josdejong/mathjs) to evaluate string expressions.
 - Work in progress - graph currently small to work on functionality.
-- Uses bad $ O(n^2) $ complexity algorithm
+- Uses bad O(n^2) complexity algorithm
